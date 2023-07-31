@@ -1,0 +1,7 @@
+D:\Assisted projects\Sec 10 - 1.5\Sec 10 - 1.5\bin\Debug\Sec 10 - 1.5.exe.config
+D:\Assisted projects\Sec 10 - 1.5\Sec 10 - 1.5\bin\Debug\Sec 10 - 1.5.exe
+D:\Assisted projects\Sec 10 - 1.5\Sec 10 - 1.5\bin\Debug\Sec 10 - 1.5.pdb
+D:\Assisted projects\Sec 10 - 1.5\Sec 10 - 1.5\obj\Debug\Sec 10 - 1.5.csproj.AssemblyReference.cache
+D:\Assisted projects\Sec 10 - 1.5\Sec 10 - 1.5\obj\Debug\Sec 10 - 1.5.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Sec 10 - 1.5\Sec 10 - 1.5\obj\Debug\Sec 10 - 1.5.exe
+D:\Assisted projects\Sec 10 - 1.5\Sec 10 - 1.5\obj\Debug\Sec 10 - 1.5.pdb
